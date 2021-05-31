@@ -9,8 +9,7 @@ We used YOLOv4 to train our custom model so as to get bounding boxes at desired 
 To train the model we have to first annotate the data, for which we used labelimg application.
 
 
-how to use labelimg :- https://youtu.be/p0nR2YsCY_U
-code :- in repo
+how to use labelimg :- https://youtu.be/p0nR2YsCY_U (check description for source code)
 
 how to train custom yolov4 model :- https://youtu.be/mmj3nxGT2YQ
 
