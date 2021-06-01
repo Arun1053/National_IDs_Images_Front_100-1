@@ -14,3 +14,5 @@ how to use labelimg :- https://youtu.be/p0nR2YsCY_U (check description for sourc
 how to train custom yolov4 model :- https://youtu.be/mmj3nxGT2YQ
 
 Now we gather the data and apply our custom yolov4 model get the bounding boxes and apply pytesseract in it and extract the texts out of images and save it in CSV 
+
+![Screenshot from 2021-06-01 16-11-32](https://user-images.githubusercontent.com/78467404/120310565-25fbcd80-c2f4-11eb-81ee-cdb02bd7efa4.png)
