@@ -15,4 +15,8 @@ how to train custom yolov4 model :- https://youtu.be/mmj3nxGT2YQ
 
 Now we gather the data and apply our custom yolov4 model get the bounding boxes and apply pytesseract in it and extract the texts out of images and save it in CSV 
 
+
+![Screenshot from 2021-06-01 16-13-48](https://user-images.githubusercontent.com/78467404/120310788-63f8f180-c2f4-11eb-9aab-007a656c7cf0.png)
+
+
 ![Screenshot from 2021-06-01 16-11-32](https://user-images.githubusercontent.com/78467404/120310565-25fbcd80-c2f4-11eb-81ee-cdb02bd7efa4.png)
